@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/cheygaima/TimeToDo/blob/master/timetodo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![TimeToDo](timetodo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
